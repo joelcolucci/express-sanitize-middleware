@@ -2,6 +2,12 @@
   "name": "express-sanitize-middleware",
   "version": "1.0.0",
   "description": "Sanitize Express request body, query, param, headers",
+  "keywords": [
+    "express",
+    "sanitize",
+    "request",
+    "caja"
+  ],
   "main": "./lib/index.js",
   "author": "Joel Colucci",
   "homepage": "https://github.com/joelcolucci/express-sanitize-middleware",
