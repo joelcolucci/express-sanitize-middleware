@@ -1,0 +1,15 @@
+{
+  "name": "express-sanitize-middleware",
+  "version": "1.0.0",
+  "description": "Sanitize Express request body, query, param, headers",
+  "main": "./lib/index.js",
+  "author": "Joel Colucci",
+  "homepage": "https://github.com/joelcolucci/express-sanitize-middleware",
+  "bugs": {
+    "url": "https://github.com/joelcolucci/express-sanitize-middleware/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@mapbox/sanitize-caja": "^0.1.4"
+  }
+}
