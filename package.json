@@ -1,6 +1,6 @@
 {
   "name": "express-sanitize-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sanitize Express request body, query, param, headers",
   "keywords": [
     "express",
