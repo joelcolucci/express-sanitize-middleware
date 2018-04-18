@@ -19,8 +19,12 @@ express-sanitize-middleware exposes one function `sanitizeRequest`.
 
 It can be used anywhere Express middleware can.
 
+### Example: sanitize request `body`
 ```javascript
+const express = require('express');
 const sanitizeRequest = require('../middleware/express-sanitize-middleware');
+
+const router = express.Router();
 
 router.post('/', [
   sanitizeRequest({
