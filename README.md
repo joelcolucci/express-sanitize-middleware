@@ -1,4 +1,4 @@
-# express-sanitize-middleware
+# express-sanitize-middleware [![NPM version](https://img.shields.io/npm/v/express-sanitize-middleware.svg)](https://www.npmjs.com/package/express-sanitize-middleware)
 Sanitize Express request body, query, param, and headers.
 
 Heads up!
